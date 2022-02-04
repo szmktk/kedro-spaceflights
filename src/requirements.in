@@ -15,3 +15,5 @@ wheel>=0.35, <0.37
 kedro[pandas.CSVDataSet, pandas.ExcelDataSet, pandas.ParquetDataSet]==0.17.6
 kedro-viz==4.1.1
 openpyxl==3.0.9
+scikit-learn==0.23.1
+
