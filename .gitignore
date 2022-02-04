@@ -21,7 +21,9 @@ logs/**
 !.gitkeep
 
 # also keep the example dataset
-!data/01_raw/iris.csv
+!data/01_raw/companies.csv
+!data/01_raw/reviews.csv
+!data/01_raw/shuttles.xlsx
 
 
 ##########################
